@@ -1,0 +1,20 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: #35312E;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #E5E5E5;
+    margin: 0;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.container p {
+   font-size: 12px;
+   background-color:#F0EEDD;
+   height: 15px;
+   width: 460px;
+   right: 443px;
+}
