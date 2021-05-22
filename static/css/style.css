@@ -7,14 +7,112 @@ body{
     background-color: #E5E5E5;
     margin: 0;
 }
-.container {
-    max-width: 1440px;
-    margin: 0 auto;
+div.container {
+  max-width: 1440px;
+  margin: 0px auto;
 }
-.container p {
-   font-size: 12px;
-   background-color:#F0EEDD;
-   height: 15px;
-   width: 460px;
-   right: 443px;
+.header {
+    position: relative;
+    background-color: #F0EEDD;
+    height: 40px;
+    width: 1440px;
 }
+.shipping {
+    position: absolute;
+    width: 554px;
+    height: 21px;
+    left: 470px;
+    top: 2px;
+}
+.shipping p {
+    position: absolute;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: roboto;
+}
+.nav {
+    position: relative;
+    background-color: #fff;
+    top: 40px;
+    height: 60px;
+    width: 1440px;
+}
+.lefts {
+   position: absolute;
+   height: 23px;
+   width: 200px;
+   top: 20px;
+   left: 45px;
+}
+.lefts p.line1 {
+   display: inline;
+   font-size: 13px;
+   font-family: Roboto;
+   font-weight: bold;
+   letter-spacing: 0.5px;
+   text-indent: 50px;  
+}
+.lefts p.line2{
+    display: inline;
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-indent: 50px;
+    padding: 0px 30px;
+}
+.center {
+   position: absolute;
+   height: 33px;
+   width: 131px;
+   left: 630px;
+   top: 10px;
+}
+.center .img {
+   background-image: url("../svg/ourplace.svg");
+   height: 32px;
+   /* border: red 2px solid; */
+}
+.rigths {
+   position: absolute;
+   height: 23px;
+   width: 200px;
+   left: 1050px;
+   top: 20px;
+}
+.rigths p.line3 {
+   display: inline;
+   font-size: 13px;
+   font-family: Roboto;
+   font-weight: bold;
+   letter-spacing: 0.5px;
+   padding: 0px 30px;
+}
+.rigths p.line4 {
+    display: inline;
+   font-size: 13px;
+   font-family: Roboto;
+   font-weight: bold;
+   letter-spacing: 0.5px;
+}
+.rigths .radius {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    left: 185px;
+    bottom: 0px;
+    background-color:#C87B5E;
+    border-radius: 32px;     
+}
+.rigths .radius p {
+    position: absolute;
+    top: -13px;
+    right: 8px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+
+
