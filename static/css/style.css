@@ -16,6 +16,7 @@ div.container {
     background-color: #F0EEDD;
     height: 40px;
     width: 1440px;
+    border-radius: 0px;
 }
 .shipping {
     position: absolute;
@@ -30,6 +31,7 @@ div.container {
     font-style: normal;
     font-weight: normal;
     font-family: roboto;
+    color: #670A18;
 }
 .nav {
     position: relative;
@@ -107,12 +109,208 @@ div.container {
 }
 .rigths .radius p {
     position: absolute;
-    top: -13px;
-    right: 8px;
+    top: -12px;
+    left: calc(50% - 8px/2);
+    /* right: 8px; */
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
+    color: #FFFFFF;   
+}
+.main {
+    position: relative;
+    height: 605px;
+    width: 1440px;
+    top: 60px;
+    border-radius: 0px;
+    background-image: url("../images/pasida1440x605.jpg");  
+}
+.main .article1 {
+    position: absolute;
+    width: 248px;
+    height: 16px;
+    left: 383px;
+    top: 168px;
+}
+.main .article1 p {
+    margin: 0px;
+    font-family: roboto;
+    font-size: 16px;
     
 }
+.main .article2 {
+    position: absolute;
+    width: 248px;
+    height: 72px;
+    left: 383px;
+    top: 193px;
+}
+.main .article2 h1 {
+    margin: 0px;
+    font-size: 50px;
+    letter-spacing: 1px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: roboto;
+}
+.main .article3 {
+    position: absolute;
+    width: 248px;
+    height: 72px;
+    left: 383px;
+    top: 246px;
+}
+.main .article3 h2 {
+    margin: 0px;
+    font-size: 50px;
+    letter-spacing: 1px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: roboto;
+}
+.main .button {
+    position: absolute;
+    width: 248px;
+    height: 60px;
+    left: 383px;
+    top: 375px;
+    background-color: #D37657;
+    border-radius: 2px;
+}
+.main .button a {
+    position: absolute;
+    width: 188px;
+    height: 21px;
+    text-transform: uppercase;
+    text-decoration: none;
+    top: 23px;
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 12px;
+    left: calc(50% - 188px/2);
+    text-align: center;
+    color: #FFFFFF;     
+}
+.section {
+    position: relative;
+    width: 1440px;
+    height: 212px;
+    top: 60px;
+    background: #F5F1E9;
+}
+.section .line1 {
+    position: absolute;
+    width: 629px;
+    height: 48px;
+    left: 406px;
+    top: 12px;
+}
+.section .line1 h2 {
+    position: absolute;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+}
+.section .line2 {
+    position: absolute;
+    width: 136px;
+    height: 29px;
+    background-image: url("../images/nav1x136x29.png");
+    left: 224px;
+    top: 130px;
+}
+.section .line3 {
+    position: absolute;
+    width: 208px;
+    height: 29px;
+    background-image: url("../images/nav2x208x29.png");
+    left: 473px;
+    top: 130px;
+}
+.section .line4 {
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    background-image: url("../images/nav3x112x29.png");
+    left: 807px;
+    top: 130px;
+}
+.section .line5 {
+    position: absolute;
+    width: 116px;
+    height: 29px;
+    background-image: url("../images/nav4x116x29.png");
+    left: 1090px;
+    top: 130px;  
+}
+.article {
+    position: relative;
+    width: 1440px;
+    height: 340px;
+    top: 61px;
+    background-color: #FCFAF6;
+}
+.article .lefts {
+    position: absolute;
+    width: 400px;
+    height: 93px;
+    left: 135px;
+    top: 104px;
+}
+.article .lefts h2 {
+    text-align: center;
+    line-height: 46px;
+    font-size: 41px;
+    letter-spacing: 1.25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.article .rigths {
+    position: absolute;
+    width: 650px;
+    height: 104px;
+    top: 121px;
+    left: 670px;
+}
+.article .rigths p {
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 26px;
+}
+.pasuda {
+    position: relative;
+    width: 1440px;
+    height: 939px;
+    top: 45px;
+    background-color: #FBF6EA;
+    /* border: red 3px solid; */
+}
+.pasuda-top {
+    position: absolute;
+    width: 564px;
+    height: 48px;
+    left: 436px;
+    top: 70px;
+}
+.pasuda-top p {
+    font-size: 35px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 40px;   
+}
+.pasuda-ball1 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
 
 
