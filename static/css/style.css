@@ -104,7 +104,7 @@ div.container {
     width: 25px;
     left: 185px;
     bottom: 0px;
-    background-color:#C87B5E;
+    background-color:#C87B5E ;
     border-radius: 32px;     
 }
 .rigths .radius p {
@@ -291,7 +291,7 @@ div.container {
     position: absolute;
     width: 564px;
     height: 48px;
-    left: 436px;
+    left: 448px;
     top: 70px;
 }
 .pasuda-top p {
@@ -303,7 +303,209 @@ div.container {
     position: absolute;
     width: 30px;
     height: 30px;
+    left: 548px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #E09D81;
 }
+.pasuda-ball2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 593px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #748EA1;
+}
+.pasuda-ball3 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 638px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #B76D47;
+}
+.pasuda-ball4 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 683px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #7D836E;
+}
+.pasuda-ball5 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 728px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #C33636;
+}
+.pasuda-ball6 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 773px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #CDC7B3;
+}
+.pasuda-ball7 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 818px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #595752;
+    border: #E09D81 3px solid;
+}
+.pasuda-ball8 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 863px;
+    top: 171px;
+    border-radius: 15px;
+    background-color: #D3C2CA;
+}
+.pasuda-center {
+    position: absolute;
+    width: 1440px;
+    height: 553px;
+    top: 246px;
+}
+.pasuda-img {
+    position: absolute;
+    width: 562px;
+    height: 553px;
+    left: 518px;
+    background-image: url("../svg/pasuda.svg");
+}
+.pasuda-img-text1 {
+    position: absolute;
+    width: 135px;
+    height: 31px;
+    top: 83px;
+    left: 374px;
+}
+.pasuda-img-text1 p {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    line-height: 15px;
+    text-transform: uppercase;
+    top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pasuda-img-text2 {
+    position: absolute;
+    width: 107px;
+    height: 31px;
+    top: 357px;
+    left: 454px;
+}
+.pasuda-img-text2 p {
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+    line-height: 15px;
+    text-transform: uppercase;
+    top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pasuda-img-text3 {
+    position: absolute;
+    width: 172px;
+    height: 47px;
+    top: 472px;
+    left: 374px;
+}
+.pasuda-img-text3 p {
+    position: absolute;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pasuda-img-text4 {
+    position: absolute;
+    width: 158px;
+    height: 31px;
+    top: 36px;
+    left: 378px;
+}
+.pasuda-img-text4 p {
+    position: absolute;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pasuda-img-text5 {
+    position: absolute;
+    width: 158px;
+    height: 31px;
+    top: 285px;
+    left: 378px;
+}
+.pasuda-img-text5 p {
+    position: absolute;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pasuda-img-text6 {
+    position: absolute;
+    width: 115px;
+    height: 16px;
+    top: 440px;
+    left: 450px;   
+}
+.pasuda-img-text6 p {
+    position: absolute;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.kitchen {
+    position: relative;
+    width: 1440px;
+    height: 870px;
+    top: 45px;
+    background-color: #FCFAF6;
+    border: red 3px solid;
+}
+.advertising-center {
+    position: absolute;
+    width: 1344px;
+    height: 820px;
+    left: 48px;
+    border: blue 3px solid;
+}
+.advertising-top {
+    position: absolute;
+    width: 477px;
+    height: 200px;
+    top: 73px;
+    left: 455px;
+    border: green 3px solid;
+}
+
+
 
 
 
