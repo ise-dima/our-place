@@ -809,15 +809,15 @@ background-color: #595752;
 }
 .advertising-img44 {
     position: absolute;
-    width: 251px;
-    height: 201px;
-    top: 463px;
-    left: 1035px;
+    width: 306px;
+    height: 204px;
+    top: 375px;
+    left: 1015px;
     background-image: url("../svg/main4x306x204.svg");
 }
 .advertising-img44 h3 {
     position: absolute;
-    width: 175px;
+    width: 116px;
     height: 24px;
     font-size: 14px;
     font-style: normal;
@@ -825,22 +825,22 @@ background-color: #595752;
     text-align: center;
     letter-spacing: 0.5px;
     margin: 0px;
-    top: 285px;
-    left: 38px;
+    top: 180px;
+    left: 90px;
 }
 .advertising-img4-price p {
     position: absolute;
-    width: 170px;
-    height: 59px;
-    line-height: 40px;
+    width: 184px;
+    height: 79px;
+    line-height: 20px;
     font-size: 13px;
     font-style: normal;
     font-weight: normal;
     text-align: center;
     letter-spacing: 0.5px;
     margin: 0px;
-    top: 560px;
-    left: 807px;
+    top: 595px;
+    left: 1080px;
     color: #6E635A;
 }
 .advertising-text4 {
@@ -865,28 +865,46 @@ background-color: #595752;
     width: 20px;
     height: 20px;
     top: 698px;
-    left: 843px;
+    left: 1089px;
     border-radius: 15px;
-    background-color: #E09D81;
+    background-color: #E09D81; 
     border: #6E6259 3px solid;
 }
 .advertising-img4-ball2 {
-position: absolute;
-width: 24px;
-height: 24px;
-top: 699px;
-left: 883px;
-border-radius: 15px;
-background-color: #CDC7B3;
+   position: absolute;
+   width: 24px;
+   height: 24px;
+   top: 699px;
+   left: 1129px;
+   border-radius: 15px;
+   background-color: #748EA1;
 }
 .advertising-img4-ball3 {
-position: absolute;
-width: 24px;
-height: 24px;
-top: 699px;
-left: 923px;
-border-radius: 15px;
-background-color: #595752;
+   position: absolute;
+   width: 24px;
+   height: 24px;
+   top: 699px;
+   left: 1169px;
+   border-radius: 15px;
+   background-color: #B76D47;
+}
+.advertising-img4-ball4 {
+   position: absolute;
+   width: 24px;
+   height: 24px;
+   top: 699px;
+   left: 1209px;
+   border-radius: 15px;
+   background-color: #7D836E;
+}
+.advertising-img4-ball5 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 699px;
+    left: 1249px;
+    border-radius: 15px;
+    background-color:#C33636;
 }
 
 
