@@ -493,7 +493,6 @@ div.container {
     width: 1344px;
     height: 820px;
     left: 48px;
-    border: blue 3px solid;
 }
 .advertising-top {
     position: absolute;
@@ -528,7 +527,6 @@ div.container {
     height: 460px;
     top: 305px;
     left: 50px;
-    border: red 3px solid;
 }
 .advertising-img11 {
     position: absolute;
@@ -617,7 +615,6 @@ background-color: #595752;
     height: 460px;
     top: 305px;
     left: 370px;
-    border: blue 3px solid;
 }
 .advertising-img22 {
     position: absolute;
@@ -716,7 +713,6 @@ background-color: #5B653B;
     height: 460px;
     top: 305px;
     left: 716px;
-    border: green 3px solid;
 }
 .advertising-img33 {
     position: absolute;
@@ -804,8 +800,7 @@ background-color: #595752;
     width: 253px;
     height: 460px;
     top: 305px;
-    left: 1040px;px;
-    border: tomato 3px solid;
+    left: 1040px;px;   
 }
 .advertising-img44 {
     position: absolute;
